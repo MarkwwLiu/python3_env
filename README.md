@@ -52,3 +52,9 @@
 ### 結論
 透過這些步驟，你已成功在Python中建立並使用虛擬環境。
 虛擬環境確保了專案的相依套件與系統的相依套件互相獨立，避免了不同專案之間的衝突。
+
+#### 關於我的連結
+- GitHub: https://github.com/MarkwwLiu
+- Facebook: https://www.facebook.com/TestMrMark
+- Linkedin: https://www.linkedin.com/in/%E7%B4%8B%E7%91%8B-%E5%8A%89-03356584/
+- CakeResume: https://www.cakeresume.com/me/ak790718
